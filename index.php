@@ -14,7 +14,18 @@ content="text/html" charset="UTF-8">
 <body>
 	<?php include 'php/php.php'; ?>
 	<section class="row">
-	
+		<div class="col-lg-12">
+			<div class="itemBlock"> <!-- output for items -->
+				<?php
+					foreach($itemList['blocks'] as $itemListBlocks){
+						echo '<div class="header">' . $itemListBlocks["type"] . '</div>';
+						foreach($itemListBlocks['items'] as $itemListBlocksItems){
+							echo '<img class="col-lg-2" src="' . getImg($itemListBlocksItems["id"]) . '" />';
+						}
+					}
+				?>
+			</div>
+		</div>
 	</section>
 	<footer>©Pierre Norrbrink</footer>
 </body>

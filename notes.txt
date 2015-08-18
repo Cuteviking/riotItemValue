@@ -1,5 +1,6 @@
 https://developer.riotgames.com/api/methods#!/968/3326
 https://developer.riotgames.com/docs/item-sets
 https://developer.riotgames.com/discussion/announcements/show/2lxEyIcE
+https://developer.riotgames.com/api/methods#!/1018
 starting - first B - mid(powerspike) - late
 

@@ -2,24 +2,6 @@ body{
 	padding: 40px;
 }
 
-.name, .champList, .tier{
-	background-color: rgb(245, 245, 245);
-	padding: 15px;
-}
-
-.name{
-	text-align: center;
-}
-
-.tier{
-
-}
-
-.tier img{
-	margin: 0 auto;
-	display:block;
-}
-
-.tier p{
-	text-align: center;
+.itemImg{
+	width: 64px;
 }

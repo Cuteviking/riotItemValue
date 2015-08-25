@@ -4,3 +4,10 @@ https://developer.riotgames.com/discussion/announcements/show/2lxEyIcE
 https://developer.riotgames.com/api/methods#!/1018
 starting - first B - mid(powerspike) - late
 
+colors
+background: f6f0cd
+background border: cdc296
+header: e9e1c1
+header border: d7cc9e
+item: f1ead0
+item border: bb9600
